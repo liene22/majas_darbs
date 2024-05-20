@@ -1,0 +1,9 @@
+E:\Dokumenti\RTV\C# projekti\Programma83\bin\Debug\Programma83.exe.config
+E:\Dokumenti\RTV\C# projekti\Programma83\bin\Debug\Programma83.exe
+E:\Dokumenti\RTV\C# projekti\Programma83\bin\Debug\Programma83.pdb
+E:\Dokumenti\RTV\C# projekti\Programma83\obj\Debug\Programma83.csprojAssemblyReference.cache
+E:\Dokumenti\RTV\C# projekti\Programma83\obj\Debug\Programma83.Form1.resources
+E:\Dokumenti\RTV\C# projekti\Programma83\obj\Debug\Programma83.Properties.Resources.resources
+E:\Dokumenti\RTV\C# projekti\Programma83\obj\Debug\Programma83.csproj.GenerateResource.cache
+E:\Dokumenti\RTV\C# projekti\Programma83\obj\Debug\Programma83.exe
+E:\Dokumenti\RTV\C# projekti\Programma83\obj\Debug\Programma83.pdb

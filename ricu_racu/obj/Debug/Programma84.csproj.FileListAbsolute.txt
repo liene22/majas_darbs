@@ -1,0 +1,11 @@
+E:\Dokumenti\RTV\C# projekti\Programma84\bin\Debug\Programma84.exe.config
+E:\Dokumenti\RTV\C# projekti\Programma84\bin\Debug\Programma84.exe
+E:\Dokumenti\RTV\C# projekti\Programma84\bin\Debug\Programma84.pdb
+E:\Dokumenti\RTV\C# projekti\Programma84\obj\Debug\Programma84.csprojAssemblyReference.cache
+E:\Dokumenti\RTV\C# projekti\Programma84\obj\Debug\Programma84.Form1.resources
+E:\Dokumenti\RTV\C# projekti\Programma84\obj\Debug\Programma84.Properties.Resources.resources
+E:\Dokumenti\RTV\C# projekti\Programma84\obj\Debug\Programma84.csproj.GenerateResource.cache
+E:\Dokumenti\RTV\C# projekti\Programma84\obj\Debug\Programma84.exe
+E:\Dokumenti\RTV\C# projekti\Programma84\obj\Debug\Programma84.pdb
+E:\Dokumenti\RTV\C# projekti\Programma84\obj\Debug\Programma84.Form2.resources
+E:\Dokumenti\RTV\C# projekti\Programma84\obj\Debug\Programma84.Form3.resources
